@@ -11,7 +11,11 @@ sysinfo.txt
 /Assets/AssetStoreTools*
 *.apk
 *.unitypackage
-*.log 
+*.log
+
+#Ignore folder named 'Logs'
+Logs/
+ 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
